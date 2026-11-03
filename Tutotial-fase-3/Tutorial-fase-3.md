@@ -1,7 +1,7 @@
 # Tutorial: Creación del Front-End Móvil - Guali Tutor (Fase 3)
 
-**Estudiante:** [Tu Nombre Completo]  
-**Carné:** [Tu Número de Carné]  
+**Estudiante:** José Eduardo Canahuí Canahuí  
+**Carné:** 3190-25-2877  
 **Curso:** Programación 2 - Universidad Mariano Gálvez de Guatemala  
 
 ---
